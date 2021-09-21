@@ -1,0 +1,2 @@
+torch==1.4.0
+pytorch-transformers==1.2.0
